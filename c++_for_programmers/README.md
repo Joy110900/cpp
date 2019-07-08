@@ -6,3 +6,4 @@
 4. Pointers
 5. Arrays
 6. Functions
+7. Classes
