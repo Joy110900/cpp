@@ -7,3 +7,6 @@
 5. Arrays
 6. Functions
 7. Classes
+8. Overloading
+9. Templates
+10. Classes and Inheritance
